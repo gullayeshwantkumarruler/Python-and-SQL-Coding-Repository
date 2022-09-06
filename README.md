@@ -1,4 +1,4 @@
 # Python-and-SQL-Coding-Repository
 
-Here You can find some good and accumulated question on Pandas, Dataframes, Python, SQL, Machine Learning and Deep Learning.
+Here You can find some good and accumulated question on Pandas, Dataframes, Python, SQL, Machine Learning and Deep Learning.<br>
 Open to all contributors.
